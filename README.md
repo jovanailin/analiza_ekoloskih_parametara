@@ -1,0 +1,2 @@
+# analiza_ekoloskih_parametara
+Studentski projekat
